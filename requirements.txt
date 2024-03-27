@@ -1,1 +1,4 @@
-"# Sensor_Project" 
+# Sensor_Project
+pandas
+numpy
+flask
